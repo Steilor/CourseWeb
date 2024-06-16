@@ -1,0 +1,12 @@
+C:\Users\steil\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Imágenes\ITLA\Devops\CourseWeb\CoursesApp\CouerseApp.Data\bin\Debug\net8.0\CouerseApp.Data.deps.json
+C:\Users\steil\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Imágenes\ITLA\Devops\CourseWeb\CoursesApp\CouerseApp.Data\bin\Debug\net8.0\CouerseApp.Data.dll
+C:\Users\steil\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Imágenes\ITLA\Devops\CourseWeb\CoursesApp\CouerseApp.Data\bin\Debug\net8.0\CouerseApp.Data.pdb
+C:\Users\steil\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Imágenes\ITLA\Devops\CourseWeb\CoursesApp\CouerseApp.Data\obj\Debug\net8.0\CouerseApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steil\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Imágenes\ITLA\Devops\CourseWeb\CoursesApp\CouerseApp.Data\obj\Debug\net8.0\CouerseApp.Data.AssemblyInfoInputs.cache
+C:\Users\steil\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Imágenes\ITLA\Devops\CourseWeb\CoursesApp\CouerseApp.Data\obj\Debug\net8.0\CouerseApp.Data.AssemblyInfo.cs
+C:\Users\steil\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Imágenes\ITLA\Devops\CourseWeb\CoursesApp\CouerseApp.Data\obj\Debug\net8.0\CouerseApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\steil\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Imágenes\ITLA\Devops\CourseWeb\CoursesApp\CouerseApp.Data\obj\Debug\net8.0\CouerseApp.Data.sourcelink.json
+C:\Users\steil\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Imágenes\ITLA\Devops\CourseWeb\CoursesApp\CouerseApp.Data\obj\Debug\net8.0\CouerseApp.Data.dll
+C:\Users\steil\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Imágenes\ITLA\Devops\CourseWeb\CoursesApp\CouerseApp.Data\obj\Debug\net8.0\refint\CouerseApp.Data.dll
+C:\Users\steil\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Imágenes\ITLA\Devops\CourseWeb\CoursesApp\CouerseApp.Data\obj\Debug\net8.0\CouerseApp.Data.pdb
+C:\Users\steil\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Imágenes\ITLA\Devops\CourseWeb\CoursesApp\CouerseApp.Data\obj\Debug\net8.0\ref\CouerseApp.Data.dll
