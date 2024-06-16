@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\whatd\\source\\repos\\CourseWeb\\CoursesApp\\CourseApp.Web\\CourseApp.Web.csproj": {}
+    "C:\\Users\\whatd\\source\\repos\\CourseWeb\\CoursesApp\\CourseApp.Test\\CourseApp.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\whatd\\source\\repos\\CourseWeb\\CoursesApp\\CourseApp.Web\\CourseApp.Web.csproj": {
+    "C:\\Users\\whatd\\source\\repos\\CourseWeb\\CoursesApp\\CourseApp.Test\\CourseApp.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\whatd\\source\\repos\\CourseWeb\\CoursesApp\\CourseApp.Web\\CourseApp.Web.csproj",
-        "projectName": "CourseApp.Web",
-        "projectPath": "C:\\Users\\whatd\\source\\repos\\CourseWeb\\CoursesApp\\CourseApp.Web\\CourseApp.Web.csproj",
+        "projectUniqueName": "C:\\Users\\whatd\\source\\repos\\CourseWeb\\CoursesApp\\CourseApp.Test\\CourseApp.Test.csproj",
+        "projectName": "CourseApp.Test",
+        "projectPath": "C:\\Users\\whatd\\source\\repos\\CourseWeb\\CoursesApp\\CourseApp.Test\\CourseApp.Test.csproj",
         "packagesPath": "C:\\Users\\whatd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\whatd\\source\\repos\\CourseWeb\\CoursesApp\\CourseApp.Web\\obj\\",
+        "outputPath": "C:\\Users\\whatd\\source\\repos\\CourseWeb\\CoursesApp\\CourseApp.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\whatd\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,6 +58,26 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.6, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -72,9 +92,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

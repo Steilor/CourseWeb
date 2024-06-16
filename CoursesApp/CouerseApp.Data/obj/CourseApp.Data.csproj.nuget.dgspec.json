@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\whatd\\Source\\Repos\\CourseWeb\\CoursesApp\\CouerseApp.Data\\CouerseApp.Data.csproj": {}
+    "C:\\Users\\whatd\\source\\repos\\CourseWeb\\CoursesApp\\CouerseApp.Data\\CourseApp.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\whatd\\Source\\Repos\\CourseWeb\\CoursesApp\\CouerseApp.Data\\CouerseApp.Data.csproj": {
+    "C:\\Users\\whatd\\source\\repos\\CourseWeb\\CoursesApp\\CouerseApp.Data\\CourseApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\whatd\\Source\\Repos\\CourseWeb\\CoursesApp\\CouerseApp.Data\\CouerseApp.Data.csproj",
-        "projectName": "CouerseApp.Data",
-        "projectPath": "C:\\Users\\whatd\\Source\\Repos\\CourseWeb\\CoursesApp\\CouerseApp.Data\\CouerseApp.Data.csproj",
+        "projectUniqueName": "C:\\Users\\whatd\\source\\repos\\CourseWeb\\CoursesApp\\CouerseApp.Data\\CourseApp.Data.csproj",
+        "projectName": "CourseApp.Data",
+        "projectPath": "C:\\Users\\whatd\\source\\repos\\CourseWeb\\CoursesApp\\CouerseApp.Data\\CourseApp.Data.csproj",
         "packagesPath": "C:\\Users\\whatd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\whatd\\Source\\Repos\\CourseWeb\\CoursesApp\\CouerseApp.Data\\obj\\",
+        "outputPath": "C:\\Users\\whatd\\source\\repos\\CourseWeb\\CoursesApp\\CouerseApp.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\whatd\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
