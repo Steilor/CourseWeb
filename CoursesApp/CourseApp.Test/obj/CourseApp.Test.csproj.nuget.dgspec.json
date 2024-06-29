@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\whatd\\source\\repos\\CourseWeb\\CoursesApp\\CourseApp.Test\\CourseApp.Test.csproj": {}
   },
   "projects": {
@@ -15,6 +16,26 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\whatd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseWeb\\CoursesApp\\CourseApp.Test\\CourseApp.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseWeb\\CoursesApp\\CourseApp.Test\\CourseApp.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseWeb\\CoursesApp\\CourseApp.Test\\CourseApp.Test.csproj",
+        "projectName": "CourseApp.Test",
+        "projectPath": "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseWeb\\CoursesApp\\CourseApp.Test\\CourseApp.Test.csproj",
+        "packagesPath": "C:\\Users\\steil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseWeb\\CoursesApp\\CourseApp.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\steil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +43,10 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
+=======
+          "C:\\Program Files\\dotnet\\library-packs": {},
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,6 +70,7 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+<<<<<<< HEAD
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.6, )"
@@ -59,6 +85,8 @@
               "target": "Package",
               "version": "[8.0.6, )"
             },
+=======
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.8.0, )"
@@ -96,7 +124,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
         }
       }
     }

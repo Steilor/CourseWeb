@@ -2,6 +2,7 @@
   "version": 3,
   "targets": {
     "net8.0": {
+<<<<<<< HEAD
       "Azure.Core/1.35.0": {
         "type": "package",
         "dependencies": {
@@ -46,12 +47,15 @@
           }
         }
       },
+=======
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
       "coverlet.collector/6.0.0": {
         "type": "package",
         "build": {
           "build/netstandard1.0/coverlet.collector.targets": {}
         }
       },
+<<<<<<< HEAD
       "Humanizer.Core/2.14.1": {
         "type": "package",
         "compile": {
@@ -324,6 +328,8 @@
           }
         }
       },
+=======
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
       "Microsoft.CodeCoverage/17.8.0": {
         "type": "package",
         "compile": {
@@ -337,6 +343,7 @@
           "build/netstandard2.0/Microsoft.CodeCoverage.targets": {}
         }
       },
+<<<<<<< HEAD
       "Microsoft.CSharp/4.5.0": {
         "type": "package",
         "compile": {
@@ -844,6 +851,8 @@
           }
         }
       },
+=======
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
       "Microsoft.NET.Test.Sdk/17.8.0": {
         "type": "package",
         "dependencies": {
@@ -873,6 +882,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+<<<<<<< HEAD
       "Microsoft.NETCore.Targets/1.1.0": {
         "type": "package",
         "compile": {
@@ -895,6 +905,8 @@
           }
         }
       },
+=======
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
       "Microsoft.TestPlatform.ObjectModel/17.8.0": {
         "type": "package",
         "dependencies": {
@@ -1145,6 +1157,7 @@
           "build/netcoreapp3.1/Microsoft.TestPlatform.TestHost.props": {}
         }
       },
+<<<<<<< HEAD
       "Microsoft.Win32.SystemEvents/6.0.0": {
         "type": "package",
         "compile": {
@@ -1179,6 +1192,8 @@
           "lib/netstandard2.0/Mono.TextTemplating.dll": {}
         }
       },
+=======
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
       "NETStandard.Library/2.0.0": {
         "type": "package",
         "dependencies": {
@@ -1244,14 +1259,22 @@
           "build/netcoreapp3.1/NUnit3TestAdapter.props": {}
         }
       },
+<<<<<<< HEAD
       "System.CodeDom/4.4.0": {
         "type": "package",
         "compile": {
           "ref/netstandard2.0/_._": {
+=======
+      "System.Reflection.Metadata/1.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/System.Reflection.Metadata.dll": {
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
             "related": ".xml"
           }
         },
         "runtime": {
+<<<<<<< HEAD
           "lib/netstandard2.0/System.CodeDom.dll": {}
         }
       },
@@ -1855,11 +1878,17 @@
             "assetType": "runtime",
             "rid": "win"
           }
+=======
+          "lib/netstandard2.0/System.Reflection.Metadata.dll": {
+            "related": ".xml"
+          }
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
         }
       }
     }
   },
   "libraries": {
+<<<<<<< HEAD
     "Azure.Core/1.35.0": {
       "sha512": "hENcx03Jyuqv05F4RBEPbxz29UrM3Nbhnr6Wl6NQpoU9BCIbL3XLentrxDCTrH54NLS11Exxi/o8MYgT/cnKFA==",
       "type": "package",
@@ -1902,6 +1931,8 @@
         "lib/netstandard2.0/Azure.Identity.xml"
       ]
     },
+=======
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
     "coverlet.collector/6.0.0": {
       "sha512": "tW3lsNS+dAEII6YGUX/VMoJjBS1QvsxqJeqLaJXub08y1FSjasFPtQ4UBUsudE9PNrzLjooClMsPtY2cZLdXpQ==",
       "type": "package",
@@ -1955,6 +1986,7 @@
         "coverlet.collector.nuspec"
       ]
     },
+<<<<<<< HEAD
     "Humanizer.Core/2.14.1": {
       "sha512": "lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
       "type": "package",
@@ -2425,6 +2457,8 @@
         "microsoft.codeanalysis.workspaces.common.nuspec"
       ]
     },
+=======
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
     "Microsoft.CodeCoverage/17.8.0": {
       "sha512": "KC8SXWbGIdoFVdlxKk9WHccm0llm9HypcHMLUUFabRiTS3SO2fQXNZfdiF3qkEdTJhbRrxhdRxjL4jbtwPq4Ew==",
       "type": "package",
@@ -2491,6 +2525,7 @@
         "microsoft.codecoverage.nuspec"
       ]
     },
+<<<<<<< HEAD
     "Microsoft.CSharp/4.5.0": {
       "sha512": "kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
       "type": "package",
@@ -3307,6 +3342,8 @@
         "microsoft.identitymodel.tokens.nuspec"
       ]
     },
+=======
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
     "Microsoft.NET.Test.Sdk/17.8.0": {
       "sha512": "BmTYGbD/YuDHmApIENdoyN1jCk0Rj1fJB0+B/fVekyTdVidr91IlzhqzytiUgaEAzL1ZJcYCme0MeBMYvJVzvw==",
       "type": "package",
@@ -3345,6 +3382,7 @@
         "runtime.json"
       ]
     },
+<<<<<<< HEAD
     "Microsoft.NETCore.Targets/1.1.0": {
       "sha512": "aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
       "type": "package",
@@ -3378,6 +3416,8 @@
         "microsoft.sqlserver.server.nuspec"
       ]
     },
+=======
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
     "Microsoft.TestPlatform.ObjectModel/17.8.0": {
       "sha512": "AYy6vlpGMfz5kOFq99L93RGbqftW/8eQTqjT9iGXW6s9MRP3UdtY8idJ8rJcjeSja8A18IhIro5YnH3uv1nz4g==",
       "type": "package",
@@ -3548,6 +3588,7 @@
         "microsoft.testplatform.testhost.nuspec"
       ]
     },
+<<<<<<< HEAD
     "Microsoft.Win32.SystemEvents/6.0.0": {
       "sha512": "hqTM5628jSsQiv+HGpiq3WKBl2c8v1KZfby2J6Pr7pEPlK9waPdgEO6b8A/+/xn/yZ9ulv8HuqK71ONy2tg67A==",
       "type": "package",
@@ -3590,6 +3631,8 @@
         "mono.texttemplating.nuspec"
       ]
     },
+=======
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
     "NETStandard.Library/2.0.0": {
       "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
       "type": "package",
@@ -3832,15 +3875,23 @@
         "nunit_256.png"
       ]
     },
+<<<<<<< HEAD
     "System.CodeDom/4.4.0": {
       "sha512": "2sCCb7doXEwtYAbqzbF/8UAeDRMNmPaQbU2q50Psg1J9KzumyVVCgKQY8s53WIPTufNT0DpSe9QRvVjOzfDWBA==",
       "type": "package",
       "path": "system.codedom/4.4.0",
+=======
+    "System.Reflection.Metadata/1.6.0": {
+      "sha512": "COC1aiAJjCoA5GBF+QKL2uLqEBew4JsCkQmoHKbN3TlOZKa2fKLz5CpiRQKDz0RsAOEGsVKqOD5bomsXq/4STQ==",
+      "type": "package",
+      "path": "system.reflection.metadata/1.6.0",
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
+<<<<<<< HEAD
         "lib/net461/System.CodeDom.dll",
         "lib/netstandard2.0/System.CodeDom.dll",
         "ref/net461/System.CodeDom.dll",
@@ -5004,13 +5055,29 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+=======
+        "lib/netstandard1.1/System.Reflection.Metadata.dll",
+        "lib/netstandard1.1/System.Reflection.Metadata.xml",
+        "lib/netstandard2.0/System.Reflection.Metadata.dll",
+        "lib/netstandard2.0/System.Reflection.Metadata.xml",
+        "lib/portable-net45+win8/System.Reflection.Metadata.dll",
+        "lib/portable-net45+win8/System.Reflection.Metadata.xml",
+        "system.reflection.metadata.1.6.0.nupkg.sha512",
+        "system.reflection.metadata.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+<<<<<<< HEAD
       "Microsoft.EntityFrameworkCore >= 8.0.6",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.6",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.6",
+=======
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
       "Microsoft.NET.Test.Sdk >= 17.8.0",
       "NUnit >= 3.14.0",
       "NUnit.Analyzers >= 3.9.0",
@@ -5019,11 +5086,17 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\whatd\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\steil\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\whatd\\Source\\Repos\\CourseWeb\\CoursesApp\\CourseApp.Test\\CourseApp.Test.csproj",
       "projectName": "CourseApp.Test",
       "projectPath": "C:\\Users\\whatd\\Source\\Repos\\CourseWeb\\CoursesApp\\CourseApp.Test\\CourseApp.Test.csproj",
@@ -5032,6 +5105,20 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\whatd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseWeb\\CoursesApp\\CourseApp.Test\\CourseApp.Test.csproj",
+      "projectName": "CourseApp.Test",
+      "projectPath": "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseWeb\\CoursesApp\\CourseApp.Test\\CourseApp.Test.csproj",
+      "packagesPath": "C:\\Users\\steil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseWeb\\CoursesApp\\CourseApp.Test\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\steil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5039,6 +5126,10 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
+=======
+        "C:\\Program Files\\dotnet\\library-packs": {},
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5062,6 +5153,7 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+<<<<<<< HEAD
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[8.0.6, )"
@@ -5076,6 +5168,8 @@
             "target": "Package",
             "version": "[8.0.6, )"
           },
+=======
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
             "version": "[17.8.0, )"
@@ -5113,7 +5207,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
       }
     }
   }

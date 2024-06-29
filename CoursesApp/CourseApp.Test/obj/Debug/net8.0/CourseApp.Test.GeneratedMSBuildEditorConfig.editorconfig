@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CourseApp.Test
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\whatd\source\repos\CourseWeb\CoursesApp\CourseApp.Test\
+=======
+build_property.ProjectDir = C:\Users\steil\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Imágenes\ITLA\Devops\CourseWeb\CoursesApp\CourseApp.Test\
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

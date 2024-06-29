@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CouerseApp.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41b073efa84e6dd4967132995dd561655c5e3c97")]
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
 [assembly: System.Reflection.AssemblyProductAttribute("CouerseApp.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CouerseApp.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

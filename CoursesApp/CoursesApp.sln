@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CourseApp.Data", "CouerseApp.Data\CourseApp.Data.csproj", "{94522438-9E21-4DA5-99A2-DB6BC06EE8F8}"
+=======
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CouerseApp.Data", "CouerseApp.Data\CouerseApp.Data.csproj", "{94522438-9E21-4DA5-99A2-DB6BC06EE8F8}"
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{C842FD31-5E0E-4DC5-8F12-2A95627FBF78}"
 EndProject
@@ -13,7 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CourseApp.Web", "CourseApp.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{25326EA7-B0A3-43A8-80E1-B3661F131F1E}"
 EndProject
+<<<<<<< HEAD
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CourseApp.Test", "CourseApp.Test\CourseApp.Test.csproj", "{917120A2-FEE2-4C5B-A566-EA773B8CB9A3}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseApp.Test", "CourseApp.Test\CourseApp.Test.csproj", "{917120A2-FEE2-4C5B-A566-EA773B8CB9A3}"
+>>>>>>> 2a6390d9b69ad8dfa963e618465ae2a6f3e66cf6
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
